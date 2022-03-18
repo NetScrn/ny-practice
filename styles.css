@@ -1,2 +1,13 @@
 body {
+    font-family: "Roboto", "Arial", sans-serif;
+    background: #224957;
+	color: #fff;
+}
+
+h1 {
+    text-align: center;
+}
+
+#login-form {
+    text-align: center;
 }
